@@ -1,0 +1,8 @@
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\bin\Release\aDayattheRaces_p188.exe.config
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\bin\Release\aDayattheRaces_p188.exe
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\bin\Release\aDayattheRaces_p188.pdb
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\obj\Release\aDayattheRaces_p188.Form1.resources
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\obj\Release\aDayattheRaces_p188.Properties.Resources.resources
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\obj\Release\aDayattheRaces_p188.csproj.GenerateResource.Cache
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\obj\Release\aDayattheRaces_p188.exe
+C:\Users\sergio\Documents\Visual Studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\obj\Release\aDayattheRaces_p188.pdb

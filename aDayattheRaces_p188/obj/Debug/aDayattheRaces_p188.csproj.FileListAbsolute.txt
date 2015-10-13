@@ -1,0 +1,9 @@
+c:\users\sergio\documents\visual studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\bin\Debug\aDayattheRaces_p188.exe.config
+c:\users\sergio\documents\visual studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\bin\Debug\aDayattheRaces_p188.exe
+c:\users\sergio\documents\visual studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\bin\Debug\aDayattheRaces_p188.pdb
+c:\users\sergio\documents\visual studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\obj\Debug\aDayattheRaces_p188.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\obj\Debug\aDayattheRaces_p188.Form1.resources
+c:\users\sergio\documents\visual studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\obj\Debug\aDayattheRaces_p188.Properties.Resources.resources
+c:\users\sergio\documents\visual studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\obj\Debug\aDayattheRaces_p188.csproj.GenerateResource.Cache
+c:\users\sergio\documents\visual studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\obj\Debug\aDayattheRaces_p188.exe
+c:\users\sergio\documents\visual studio 2015\Projects\aDayattheRaces_p188\aDayattheRaces_p188\obj\Debug\aDayattheRaces_p188.pdb
